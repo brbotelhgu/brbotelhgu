@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey! 🫡
 
-<!--
-**brbotelhgu/brbotelhgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data engineering student based in Brazil.
 
-Here are some ideas to get you started:
+With a data-driven background, focused on data modeling, ELT/ETL workflows, and office automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying and building skills in SQL and Python,
+and learning how to design and build data warehouses and data lakes.
+
+I’m interested in cloud, research, and data-driven solutions,
+and I’m passionate about Excel.
+
+Fell free to check out my LinkedIn in the profile links!
