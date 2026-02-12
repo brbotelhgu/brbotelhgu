@@ -2,7 +2,7 @@ Hey! 🫡
 
 I’m a data engineering student based in Brazil.
 
-With a data-driven background, focused on data modeling, ELT/ETL workflows, and office automation.
+With a data-driven background, focused on data modeling, workflows, and office automation.
 
 Currently studying and building skills in SQL and Python,
 and learning how to design and build data warehouses and data lakes.
