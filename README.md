@@ -1,6 +1,6 @@
 Hey! 🫡
 
-I’m a data engineering student based in Brazil.
+I’m a data engineering student based in São Paulo
 
 With a data-driven background, focused on data modeling, workflows, and office automation.
 
