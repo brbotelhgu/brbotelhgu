@@ -1,8 +1,6 @@
 Hey! 🫡
 
-I’m a data engineering student based in São Paulo
-
-With a data-driven background, focused on data modeling, workflows, and office automation.
+I’m a data engineering student With a data-driven background, focused on data modeling, workflows, and office automation. Based in São Paulo
 
 Currently studying and building skills in SQL and Python,
 and learning how to design and build data warehouses and data lakes.
